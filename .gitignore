@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+client/dist/
+
+# Local env files
+.env
+*.env
+client/.env
+server/.env
+
+# Runtime uploads/logs
+server/uploads/*
+!server/uploads/.gitkeep
+*.log
+npm-debug.log*
+
+# OS/IDE noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
