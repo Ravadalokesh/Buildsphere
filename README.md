@@ -1,6 +1,6 @@
-# BuildSphere - Interview-Ready MERN Project
+# BuildSphere - MERN Project
 
-BuildSphere is a construction project intelligence platform inspired by products like Inncircles:
+BuildSphere is a construction project intelligence platform :
 - Multi-project control tower
 - Daily site progress tracking
 - Task and issue workflow
@@ -8,13 +8,7 @@ BuildSphere is a construction project intelligence platform inspired by products
 - OCR document ingestion for site reports
 - Predictive delay ML baseline for early warning
 
-This is designed for a final-year B.Tech interview demo to show product thinking + MERN execution.
 
-## Why This Project Impresses
-
-- Matches real construction-tech workflows (planning, execution, monitoring, risk).
-- Demonstrates end-to-end MERN development with auth, RBAC-ready model design, dashboards, and analytics.
-- Shows practical AI-style reasoning through a risk scoring engine.
 
 ## Tech Stack
 
@@ -108,15 +102,7 @@ This repo includes `render.yaml`, so Render can create both services automatical
 4. Test OCR upload using `.txt` file.
 5. Run delay prediction and verify output appears.
 
-## Demo Workflow (Interview)
 
-1. Register as `project_manager`.
-2. Create a project with budget, timeline, progress.
-3. Add tasks and mark some delayed/blocked.
-4. Submit daily logs with planned vs actual progress.
-5. Open risk panel to show score, severity, and recommendations.
-6. Upload a text/image report in OCR panel to extract signals.
-7. Run delay prediction to show predicted delay days and probability.
 
 ## Future Upgrades (Talk Track)
 
